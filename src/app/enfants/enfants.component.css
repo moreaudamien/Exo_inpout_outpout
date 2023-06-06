@@ -1,0 +1,10 @@
+li {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+}
